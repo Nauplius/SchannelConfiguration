@@ -1,3 +1,7 @@
+**Repository Moved**
+
+This repository has moved to [tseward/SchannelConfiguration](https://github.com/tseward/SchannelConfiguration).
+
 # SchannelConfiguration
 Configure SChannel Security Settings via Group Policy
 
